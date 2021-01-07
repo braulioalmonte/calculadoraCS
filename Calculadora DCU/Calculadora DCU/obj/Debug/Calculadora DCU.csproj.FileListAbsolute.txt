@@ -1,0 +1,12 @@
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\bin\Debug\Calculadora DCU.exe.config
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\bin\Debug\Calculadora DCU.exe
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\bin\Debug\Calculadora DCU.pdb
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora DCU.csprojAssemblyReference.cache
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora_DCU.Form1.resources
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora_DCU.Properties.Resources.resources
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora DCU.csproj.GenerateResource.cache
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora DCU.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora DCU.exe
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora DCU.pdb
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora_DCU.Form2.resources
+C:\Users\braul\source\repos\Calculadora DCU\Calculadora DCU\obj\Debug\Calculadora_DCU.Form3.resources
